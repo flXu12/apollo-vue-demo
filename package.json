@@ -1,0 +1,15 @@
+{
+  "name": "apollo-vue-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "init-server": "cd server && yarn",
+    "init-client": "cd client && yarn",
+    "run-server": "cd server && node server.js",
+    "run-client": "cd client && yarn serve"
+  },
+  "author": "",
+  "license": "ISC"
+}
